@@ -81,7 +81,7 @@
       "type": "Playlist"
     }
   ],
-  "download": "https://github.com/namescuddles/duxx-module-updater/archive/v1.2.0.zip",
+  "download": "https://github.com/NamesCuddles/duxx-module-updater/blob/main/v1.2.0.zip",
   "manifest": "https://github.com/NamesCuddles/duxx-module-updater/blob/main/module.json",
   "url": "https://github.com/namescuddles/duxx-module-updater"
 }
