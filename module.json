@@ -1,0 +1,87 @@
+{
+  "id": "duxx-and-dragons-5e",
+  "title": "Duxx and Dragons 5e",
+  "description": "Move along. Nothing to see here.",
+   "authors": [
+    {
+      "name": "Dat"
+    },
+    {
+      "name": "Boi"
+    }
+  ],
+  "version": "1.2.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "adventure",
+      "system": "dnd5e",
+      "label": "Adventures (Duxx 5e)",
+      "path": "./packs/duxx-and-dragons-5e.db",
+      "module": "duxx-and-dragons-5e",
+      "type": "Adventure"
+    },
+    {
+      "name": "actors",
+      "system": "dnd5e",
+      "label": "Actors (Duxx 5e)",
+      "path": "./packs/actors.db",
+      "module": "duxx-and-dragons-5e",
+      "type": "Actor"
+    },
+    {
+      "name": "items",
+      "system": "dnd5e",
+      "label": "Items (Duxx 5e)",
+      "path": "./packs/items.db",
+      "module": "duxx-and-dragons-5e",
+      "type": "Item"
+    },
+    {
+      "name": "scenes",
+      "system": "dnd5e",
+      "label": "Scenes (Duxx 5e)",
+      "path": "./packs/scenes.db",
+      "module": "duxx-and-dragons-5e",
+      "type": "Scene"
+    },
+    {
+      "name": "JournalEntries",
+      "system": "dnd5e",
+      "label": "Journal Entries (Duxx 5e)",
+      "path": "./packs/journalentry.db",
+      "module": "duxx-and-dragons-5e",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "macros",
+      "system": "dnd5e",
+      "label": "Macros (Duxx 5e)",
+      "path": "./packs/macro.db",
+      "module": "duxx-and-dragons-5e",
+      "type": "Macro"
+    },
+    {
+      "name": "rolltables",
+      "system": "dnd5e",
+      "label": "Roll Tables (Duxx 5e)",
+      "path": "./packs/rolltables.db",
+      "module": "duxx-and-dragons-5e",
+      "type": "RollTable"
+    },
+    {
+      "name": "playlist",
+      "system": "dnd5e",
+      "label": "Playlist (Duxx 5e)",
+      "path": "./packs/playlist.db",
+      "module": "duxx-and-dragons-5e",
+      "type": "Playlist"
+    }
+  ],
+  "download": "https://github.com/namescuddles/duxx-module-updater/archive/v1.2.0.zip",
+  "manifest": "https://github.com/namescuddles/duxx-module-updater/releases/latest/download/module.json",
+  "url": "https://github.com/namescuddles/duxx-module-updater"
+}
